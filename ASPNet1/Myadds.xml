@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <imageUrl>/Images/butterfly.jpg</imageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternateText>Please visit Google.com</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Butterfly</Keyword>
+  </Ad>
+  <Ad>
+    <imageUrl>/Images/Simba.jpg</imageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternateText>Please visit Google.com</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>Simba</Keyword>
+  </Ad>
+  <Ad>
+    <imageUrl>/Images/Panda.jpg</imageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternateText>Please visit Google.com</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Panda</Keyword>
+  </Ad>
+</Advertisements>
